@@ -1,0 +1,45 @@
+﻿@startuml MegaDesk
+
+class DeskQuote {
+    +date: DateTime { get set }
+    +name: string { get set }
+    +order_days: int{ get set }
+    +id: int { get set }
+
+    +Desk.calculateDeskCost(): decimal
+    +createIdNumber(): int
+    +calculateTotalCost(Desk.calculateDeskCost: decimal, order_days: int): decimal
+}
+
+class Desk {
+    -BASE_PRICE: int = 200
+    -DRAWER_PRICE: int = 50
+    -DESKTOP_AREA_COST: decimal = 1.00
+    -SURFACE_TYPE: SurfaceType { get } 
+
+    +width: double { get set }
+    +depth: double { get set }
+    +drawer_count: int { get set }
+    +surface_type: string { get set }
+
+    +Desk()
+    +Desk(width: double, depth: double, drawer_count: int, surface_type: string)
+
+    +calculateSurfaceArea(): double
+    +calculateAreaCost(): double
+    +calculateDeskCost(): decimal
+    +errorMessage(): string
+}
+
+enum SurfaceType {
+    -OAK_SURFACE: int = 200
+    -LAMINATE_SURFACE: int = 100
+    -PINE_SURFACE: int = 50
+    -ROSEWOOD_SURFACE: int = 300
+    -VENEER_SURFACE: int = 125
+}
+
+DeskQuote o-- Desk
+SurfaceType <-- Desk
+
+@enduml

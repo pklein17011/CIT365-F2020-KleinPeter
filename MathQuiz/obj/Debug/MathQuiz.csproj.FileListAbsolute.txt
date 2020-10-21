@@ -1,0 +1,12 @@
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\bin\Debug\chime.wav
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\klein\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache

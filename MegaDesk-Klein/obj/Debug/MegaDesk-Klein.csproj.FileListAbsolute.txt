@@ -1,0 +1,14 @@
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\bin\Debug\MegaDesk_Klein.exe.config
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\bin\Debug\MegaDesk_Klein.exe
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\bin\Debug\MegaDesk_Klein.pdb
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk-Klein.csprojAssemblyReference.cache
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk_Klein.AddQuote.resources
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk_Klein.DisplayQuote.resources
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk_Klein.MainMenu.resources
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk_Klein.Properties.Resources.resources
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk_Klein.SearchQuotes.resources
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk_Klein.ViewAllQuotes.resources
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk-Klein.csproj.GenerateResource.cache
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk-Klein.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk_Klein.exe
+C:\Users\klein\source\repos\CIT365-F2020-KleinPeter\MegaDesk-Klein1.0\obj\Debug\MegaDesk_Klein.pdb
