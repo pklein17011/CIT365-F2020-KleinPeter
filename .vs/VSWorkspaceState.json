@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BooksAPI",
+    "\\BooksAPI\\Controllers"
   ],
-  "SelectedNode": "\\.gitattributes",
+  "SelectedNode": "\\BooksAPI\\Controllers\\ValuesController.cs",
   "PreviewInSolutionExplorer": false
 }
